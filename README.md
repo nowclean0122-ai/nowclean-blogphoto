@@ -1,2 +1,2 @@
-# nowclean-img
-나우클린 블로그용 이미지 저장소
+# nowclean-blogphoto
+나우클린 네이버 블로그 원고용 사진 저장소
